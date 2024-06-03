@@ -1,0 +1,1 @@
+package Has_a_Relationship_Lazy_Binding;
